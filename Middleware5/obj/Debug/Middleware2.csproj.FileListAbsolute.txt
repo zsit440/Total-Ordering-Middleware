@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.Properties.Resources.resources
+C:\Users\David\source\repos\MultiCast\Middleware2\bin\Debug\Middleware2.exe.config
+C:\Users\David\source\repos\MultiCast\Middleware2\bin\Debug\Middleware2.exe
+C:\Users\David\source\repos\MultiCast\Middleware2\bin\Debug\Middleware2.pdb
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.Middleware2.resources
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.exe
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.pdb
+C:\Users\David\source\repos\MultiCast\Middleware2\obj\Debug\Middleware2.csprojAssemblyReference.cache

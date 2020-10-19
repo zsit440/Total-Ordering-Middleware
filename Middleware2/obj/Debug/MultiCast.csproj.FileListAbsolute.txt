@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\MultiCast\MultiCast\bin\Debug\MultiCast.exe.config
+C:\Users\David\source\repos\MultiCast\MultiCast\bin\Debug\MultiCast.exe
+C:\Users\David\source\repos\MultiCast\MultiCast\bin\Debug\MultiCast.pdb
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.csprojAssemblyReference.cache
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.Form1.resources
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.Properties.Resources.resources
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.exe
+C:\Users\David\source\repos\MultiCast\MultiCast\obj\Debug\MultiCast.pdb

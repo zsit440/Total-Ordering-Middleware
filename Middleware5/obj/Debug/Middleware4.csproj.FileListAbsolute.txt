@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.Properties.Resources.resources
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.exe.config
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.pdb
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.pdb
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.Middleware4.resources

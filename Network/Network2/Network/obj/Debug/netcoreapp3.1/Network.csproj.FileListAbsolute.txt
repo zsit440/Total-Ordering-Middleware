@@ -1,0 +1,13 @@
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.exe
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.deps.json
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.runtimeconfig.json
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.runtimeconfig.dev.json
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.dll
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\bin\Debug\netcoreapp3.1\Network.pdb
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.AssemblyInfoInputs.cache
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.AssemblyInfo.cs
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.csproj.CoreCompileInputs.cache
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.dll
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.pdb
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.genruntimeconfig.cache
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Network\Network2\Network\obj\Debug\netcoreapp3.1\Network.csprojAssemblyReference.cache

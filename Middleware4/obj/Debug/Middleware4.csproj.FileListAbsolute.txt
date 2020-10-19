@@ -1,0 +1,38 @@
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.Properties.Resources.resources
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.exe.config
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast\Middleware4\bin\Debug\Middleware4.pdb
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.pdb
+C:\Users\David\source\repos\MultiCast\Middleware4\obj\Debug\Middleware4.ISynchronizeInvokeExtensions.resources
+C:\Users\David\source\repos\MultiCast711\Middleware4\bin\Debug\Middleware4.exe.config
+C:\Users\David\source\repos\MultiCast711\Middleware4\bin\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast711\Middleware4\bin\Debug\Middleware4.pdb
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.csprojAssemblyReference.cache
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.ISynchronizeInvokeExtensions.resources
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.Properties.Resources.resources
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.csproj.GenerateResource.cache
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.exe
+C:\Users\David\source\repos\MultiCast711\Middleware4\obj\Debug\Middleware4.pdb
+H:\Compsci711\MultiCast711\Middleware4\bin\Debug\Middleware4.exe.config
+H:\Compsci711\MultiCast711\Middleware4\bin\Debug\Middleware4.exe
+H:\Compsci711\MultiCast711\Middleware4\bin\Debug\Middleware4.pdb
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.csprojAssemblyReference.cache
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.ISynchronizeInvokeExtensions.resources
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.Properties.Resources.resources
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.csproj.GenerateResource.cache
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.csproj.CoreCompileInputs.cache
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.exe
+H:\Compsci711\MultiCast711\Middleware4\obj\Debug\Middleware4.pdb
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\bin\Debug\Middleware4.exe.config
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\bin\Debug\Middleware4.exe
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\bin\Debug\Middleware4.pdb
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.ISynchronizeInvokeExtensions.resources
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.Properties.Resources.resources
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.csproj.GenerateResource.cache
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.csproj.CoreCompileInputs.cache
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.exe
+D:\Study\CV\Application Track\Unleashed Software\TotalOrdering in distributed system\Middleware4\obj\Debug\Middleware4.pdb
